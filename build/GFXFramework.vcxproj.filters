@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\components\camera_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\components\scene_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\components\simple_scene.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\components\text_renderer.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\engine.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\gpu\frame_buffer.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\gpu\gpu_buffers.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\gpu\mesh.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\gpu\shader.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\gpu\texture2D.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\managers\texture_manager.cpp">
+      <Filter>src\core\managers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\window\input_controller.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\window\window_callbacks.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\window\window_object.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\world.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab1\lab1.cpp">
+      <Filter>src\lab_m1\lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab2\lab2.cpp">
+      <Filter>src\lab_m1\lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab3\lab3.cpp">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab3\lab3_vis2D.cpp">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab3\object2D.cpp">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab4\lab4.cpp">
+      <Filter>src\lab_m1\lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab5\lab5.cpp">
+      <Filter>src\lab_m1\lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab6\lab6.cpp">
+      <Filter>src\lab_m1\lab6</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab7\lab7.cpp">
+      <Filter>src\lab_m1\lab7</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab8\lab8.cpp">
+      <Filter>src\lab_m1\lab8</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab9\lab9.cpp">
+      <Filter>src\lab_m1\lab9</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema1\tank.cpp">
+      <Filter>src\teme\tema1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema1\tema1.cpp">
+      <Filter>src\teme\tema1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema1\tema1_object2D.cpp">
+      <Filter>src\teme\tema1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema2\drone.cpp">
+      <Filter>src\teme\tema2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema2\obstacle.cpp">
+      <Filter>src\teme\tema2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema2\tema2.cpp">
+      <Filter>src\teme\tema2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema2\tema2_object3D.cpp">
+      <Filter>src\teme\tema2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\utils\gl_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\utils\text_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\components\camera.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\components\camera_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\components\exports.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\components\scene_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\components\simple_scene.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\components\text_renderer.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\components\transform.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\engine.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\gpu\frame_buffer.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\gpu\gpu_buffers.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\gpu\mesh.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\gpu\particle_effect.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\gpu\shader.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\gpu\ssbo.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\gpu\texture2D.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\gpu\vertex_bone_data.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\gpu\vertex_format.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\managers\resource_path.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\managers\texture_manager.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\window\input_controller.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\window\window_callbacks.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\window\window_object.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\core\world.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab1\lab1.h">
+      <Filter>src\lab_m1\lab1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab2\lab2.h">
+      <Filter>src\lab_m1\lab2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab3\lab3.h">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab3\lab3_vis2D.h">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab3\object2D.h">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab3\transform2D.h">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab4\lab4.h">
+      <Filter>src\lab_m1\lab4</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab4\transform3D.h">
+      <Filter>src\lab_m1\lab4</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab5\lab5.h">
+      <Filter>src\lab_m1\lab5</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab5\lab_camera.h">
+      <Filter>src\lab_m1\lab5</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab6\lab6.h">
+      <Filter>src\lab_m1\lab6</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab6\shaders\FragmentShader.glsl">
+      <Filter>src\lab_m1\lab6\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab6\shaders\VertexShader.glsl">
+      <Filter>src\lab_m1\lab6\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab7\lab7.h">
+      <Filter>src\lab_m1\lab7</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab7\shaders\FragmentShader.glsl">
+      <Filter>src\lab_m1\lab7\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab7\shaders\VertexShader.glsl">
+      <Filter>src\lab_m1\lab7\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab8\lab8.h">
+      <Filter>src\lab_m1\lab8</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab8\shaders\FragmentShader.glsl">
+      <Filter>src\lab_m1\lab8\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab8\shaders\VertexShader.glsl">
+      <Filter>src\lab_m1\lab8\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab9\lab9.h">
+      <Filter>src\lab_m1\lab9</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab9\shaders\FragmentShader.glsl">
+      <Filter>src\lab_m1\lab9\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab9\shaders\VertexShader.glsl">
+      <Filter>src\lab_m1\lab9\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\lab_m1\lab_list.h">
+      <Filter>src\lab_m1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema1\tank.h">
+      <Filter>src\teme\tema1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema1\tema1.h">
+      <Filter>src\teme\tema1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema1\tema1_object2D.h">
+      <Filter>src\teme\tema1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema1\tema1_transform2D.h">
+      <Filter>src\teme\tema1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema2\camera.h">
+      <Filter>src\teme\tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema2\drone.h">
+      <Filter>src\teme\tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema2\obstacle.h">
+      <Filter>src\teme\tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema2\shaders\FloorFragmentShader.glsl">
+      <Filter>src\teme\tema2\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema2\shaders\FloorVertexShader.glsl">
+      <Filter>src\teme\tema2\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema2\shaders\FragmentShader.glsl">
+      <Filter>src\teme\tema2\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema2\shaders\GoalVertexShader.glsl">
+      <Filter>src\teme\tema2\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema2\shaders\GoalrFragmentShader.glsl">
+      <Filter>src\teme\tema2\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema2\shaders\VertexShader.glsl">
+      <Filter>src\teme\tema2\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema2\tema2.h">
+      <Filter>src\teme\tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\tema2\tema2_object3D.h">
+      <Filter>src\teme\tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\teme\teme.h">
+      <Filter>src\teme</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\utils\gl_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\utils\glm_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\utils\math_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\utils\memory_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\utils\text_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\src\utils\window_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\drago\Desktop\EGC - laboratoare\gfx-framework-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{835EAC3B-6C42-31D2-B87D-E66EBE9F265A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\components">
+      <UniqueIdentifier>{75382FEF-0FD6-393E-A3E1-25BC040FA569}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{3177919A-E3F4-3EE8-98ED-7FE819CC3F07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\gpu">
+      <UniqueIdentifier>{DAFD0DB6-FD3A-3F02-940F-E034E023CA53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\managers">
+      <UniqueIdentifier>{F046FB2B-410E-32F5-99B3-8309C76799D6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\window">
+      <UniqueIdentifier>{8CC9F991-2E5C-3B6E-BB75-8015F3B93A9E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1">
+      <UniqueIdentifier>{E7BA61C7-940D-37D2-A720-7FEE6E9CFA82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab1">
+      <UniqueIdentifier>{3DF1B2D6-19C9-3020-9F07-52AEAAA09E48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab2">
+      <UniqueIdentifier>{1F466EE4-0192-3F33-A740-5DF0B54EF95E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab3">
+      <UniqueIdentifier>{56AA20F2-1B9E-3329-A815-F7850F7ED1F4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab4">
+      <UniqueIdentifier>{5570176E-11FE-3240-999C-5852A9BCB9F1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab5">
+      <UniqueIdentifier>{43D1513C-AFAB-3D01-A0ED-FB535CFF2A10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab6">
+      <UniqueIdentifier>{CEC17A67-10FB-3334-954D-B113FE3D2F94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab6\shaders">
+      <UniqueIdentifier>{8E072E23-0E97-33D0-9163-5ABB5B3EC125}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab7">
+      <UniqueIdentifier>{C2D166CD-A90A-35B3-B204-5F08C6DE0C84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab7\shaders">
+      <UniqueIdentifier>{A5BB385D-FFFD-3DAF-AB4F-28989BBEAF80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab8">
+      <UniqueIdentifier>{3EE084B9-8682-3AE0-8A67-5B3F9D952E56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab8\shaders">
+      <UniqueIdentifier>{CEE49D6C-400E-3203-A149-62BD25250A93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab9">
+      <UniqueIdentifier>{6CC7A526-6AF4-34FE-9539-40FCA0B879E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab9\shaders">
+      <UniqueIdentifier>{F1E1B4EC-A7F9-36E5-954B-F15CEBA41166}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\teme">
+      <UniqueIdentifier>{D9BAD6B1-D7EC-3859-8236-0423274E6464}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\teme\tema1">
+      <UniqueIdentifier>{5990D261-A78F-35B9-84BE-1B4AFDF9263D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\teme\tema2">
+      <UniqueIdentifier>{2F2C52BE-D93B-38B4-A04F-89F141CE3F0F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\teme\tema2\shaders">
+      <UniqueIdentifier>{854D5D58-4F37-3A7F-A4B2-7DDB8638EEDB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils">
+      <UniqueIdentifier>{CCAF23F1-DBCD-3D4D-AC87-E90564A01504}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
