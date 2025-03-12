@@ -30,7 +30,7 @@ A drone that can be flown around map and can:
 
 The drone has its own colission box to ensure that it cannot clip through terrain or obstacles. Additionally, it has colission detections and, in case it crashes into an obstacle, it bounces off.
 
-### Camere
+### Camera
 
 The camera has 3 mode:
 - **free view**: it can fly around the map, not carring about the drone.
